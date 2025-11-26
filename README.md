@@ -10,16 +10,16 @@ I’m currently based in **Dallas, TX** and **open to relocation** or internatio
 ## 🛠 Tech Stack
 
 **Mobile:**  
-React Native · Expo · React Navigation · Animations · RN Reanimated · RN Gesture Handler  
+React Native · Expo · React Navigation · Animations · RN Gesture Handler  
 
 **Frontend:**  
-React · TypeScript · Zustand · Tailwind / Styled Components  
+React · Angular ·TypeScript · HTML · CSS
 
 **Backend:**  
-Node.js · Supabase Functions · Express · REST APIs · Webhooks  
+Node.js · C++ · Express · REST APIs · Webhooks  
 
 **Cloud & Tools:**  
-Supabase · Firebase · Azure · GitHub Actions · CI/CD  
+Supabase · Firebase · Microsoft Azure · GitHub Actions · Postman · CI/CD · Jira
 
 **Other:**  
 Real-time data pipelines · API integrations · Performance debugging · UI/UX implementation  
